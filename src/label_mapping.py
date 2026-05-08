@@ -1,0 +1,13 @@
+id2label = {
+    0: "World",
+    1: "Sports",
+    2: "Business",
+    3: "Sci/Tech"
+}
+
+label2id = {
+    "World": 0,
+    "Sports": 1,
+    "Business": 2,
+    "Sci/Tech": 3
+}

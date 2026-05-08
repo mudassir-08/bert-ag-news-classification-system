@@ -1,0 +1,5 @@
+MODEL_NAME = "bert-base-uncased"
+MAX_LENGTH = 128
+BATCH_SIZE = 16
+LEARNING_RATE = 2e-5
+EPOCHS = 3

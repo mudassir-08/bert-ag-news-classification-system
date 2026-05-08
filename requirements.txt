@@ -1,0 +1,15 @@
+transformers
+datasets
+torch
+torchvision
+torchaudio
+accelerate
+evaluate
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
+streamlit
+gradio
+huggingface_hub
