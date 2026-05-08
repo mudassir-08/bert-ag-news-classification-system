@@ -1,7 +1,17 @@
-# Building Intelligent Systems ( AI Production Applications)
+#  Building Intelligent Systems (AI Production Applications)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?style=flat-square&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=flat-square&logo=huggingface)
+![BERT](https://img.shields.io/badge/Model-BERT-green?style=flat-square)
+![AGNews](https://img.shields.io/badge/Dataset-AG%20News-purple?style=flat-square)
+![Gradio](https://img.shields.io/badge/Deployment-Gradio-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square)
+
 ---
-#  Fine-Tuning BERT for News Topic Classification  
-## Transformer-Based News Intelligence System (Research-Grade NLP System)
+
+##  Fine-Tuning BERT for News Topic Classification  
+### Transformer-Based News Intelligence System (Research-Grade NLP System)
 
 ---
 
